@@ -4,7 +4,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 🔗 **Live Demo**: [https://simplecalculatorap.netlify.app/](https://simplecalculatorap.netlify.app/)
 
-## Features
+## Features and Functionalities
 
 * Basic arithmetic operations
 * Responsive design for mobile and desktop
